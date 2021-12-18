@@ -1,0 +1,15 @@
+{
+  "name": "languesser",
+  "version": "1.0.0",
+  "description": "input text and lanGuesser will attempt to guess the language the text is written in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue Rivera",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  }
+}
